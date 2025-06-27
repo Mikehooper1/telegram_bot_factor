@@ -1,0 +1,6 @@
+python-telegram-bot
+requests
+tweepy
+python-dotenv 
+beautifulsoup4
+yt-dlp
