@@ -4,3 +4,5 @@ tweepy
 python-dotenv 
 beautifulsoup4
 yt-dlp
+urllib3
+lxml
